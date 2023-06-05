@@ -4,6 +4,7 @@
 Feeling lost in a sea of information
 Struggling to grasp the fundamental concepts of programming` 
 
+
 ### I've been right where you are now and I vividly remember the frustration of trying to understand those mysterious lines of codes. 
 
 ### It's okay to feel overwhelmed or get lost along the way, take a deep breath and know that you've finally found your home. I'm here to guide you through every step of this exhilarating adventure.
@@ -19,3 +20,5 @@ Struggling to grasp the fundamental concepts of programming`
 ### Join me as we take those first steps together.
 
 `Stay tuned for more updates! 🚀`
+
+![2875173](https://github.com/besthor/My_YouTube_Channel/assets/111004790/f80ccee7-41e4-42d9-9012-4012c30a70e5)

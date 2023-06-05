@@ -16,7 +16,7 @@
 ### Remember, becoming a proficient programmer takes time and dedication. Don't be discouraged by setbacks or confusion. Each line of code you write and every concept you understand will unlock the immense potential within you.
 
 ### Join me as we take those first steps together.
-
+#
 ![2875173](https://github.com/besthor/My_YouTube_Channel/assets/111004790/f80ccee7-41e4-42d9-9012-4012c30a70e5)
 
 ## Stay tuned for more updates! 🚀

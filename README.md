@@ -21,3 +21,5 @@
 
 ## Stay tuned for more updates! 🚀
 
+### If you have found my resources or projects usesful and would love to stay updated on my work, please consider following me on GitHub
+

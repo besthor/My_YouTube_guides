@@ -1,4 +1,4 @@
-##🎥 I'm thrilled to announce my very own YouTube channel soon! 🎉
+## I'm thrilled to announce my very own YouTube channel soon! 🎥 🎉
 
 ## If you've found yourself endlessly jumping from one video to another, Feeling lost in a sea of information, Struggling to grasp the fundamental concepts of programming, take a deep breath and know that you've finally found your home.
 

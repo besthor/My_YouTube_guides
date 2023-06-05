@@ -1,6 +1,6 @@
 ## I'm thrilled to announce my very own YouTube channel soon! 🎥 🎉
 
-## If you've found yourself endlessly jumping from one video to another, Feeling lost in a sea of information, Struggling to grasp the fundamental concepts of programming, take a deep breath and know that you've finally found your home.
+### If you've found yourself endlessly jumping from one video to another, Feeling lost in a sea of information, Struggling to grasp the fundamental concepts of programming, take a deep breath and know that you've finally found your home.
 
 
 ### I've been right where you are now and I vividly remember the frustration of trying to understand those mysterious lines of codes. 
